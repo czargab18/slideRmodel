@@ -80,7 +80,6 @@ h1.maintitulo {
     margin-bottom: 44px;
     font-size: 72px;
     font-family: 'SF Pro Text';
-    /*    font-family: 'Yanone Kaffeesatz';*/
     font-weight: 800;
 }
 
@@ -122,4 +121,9 @@ hr.linha {
 .footer-vertical-line{
     height: 30px;
     border-right: 1px solid #000;
+}
+
+.footer-texto-unb-dep{
+  font-size: 12px;
+  line-height: -0.5px;
 }

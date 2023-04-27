@@ -20,7 +20,7 @@ output:
       slideNumberFormart: '%current% /%total%'
 ---
 <!-- titulo -->
-<h1 class="maintitulo">O que pensa mercado financeira sobre a política economica.</h1>
+<h1 class="maintitulo">O que pensa o mercado financeira sobre a política economica.</h1>
 
 <!-- natureza -->
 <span class="natureza">Defesa do Trabalho de <br> Conclusão de curso</span>
@@ -28,16 +28,22 @@ output:
 <!-- linha -->
 <hr class="linha"> 
 
+
+
 <!-- rodapé -->
+
 <div class="footer">
  <div class="footer-content">
   <!-- logo UnB -->
-  <img src="/img/unb-logo.png" class="footer-content-img"></img>
+   <img src="../img/unb-logo.png" class="footer-content-img"></img>
   <!-- Linha vertical -->
-  <div class="footer-vertical-line"></div>
+   <div class="footer-vertical-line"></div>
   <!-- Texto-UnB -->
-  <span>Universidade de Brasilia</span>
+   <span class="footer-texto-unb-dep">Universidade de Brasilia<br>
+      Departamento de Estatística
+   </span>
 </div>
 
 ---
-## teste
+
+#teste
