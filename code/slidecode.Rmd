@@ -17,7 +17,7 @@ output:
       ratio: '16:9'
       progress: true
       controlsLayout: 'bottom-right'
-      slideNumberFormart: '%current% /%total%'
+      slideNumberFormat: '%current% /%total%'
 ---
 <!-- titulo -->
 <h1 class="maintitulo">O que pensa o mercado financeira sobre a política economica.</h1>
