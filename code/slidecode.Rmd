@@ -1,9 +1,9 @@
 ---
-title: "TITULO"
-subtitle: "SUBTITULO"
-author: "Yihui Xie"
-institute: "UnB"
-date: "data"
+# title: "TITULO"
+# subtitle: "SUBTITULO"
+# author: "Yihui Xie"
+# institute: "UnB"
+# date: "data"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -18,9 +18,11 @@ output:
       progress: true
       controlsLayout: 'bottom-right'
       slideNumberFormat: '%current% /%total%'
+encoding: UTF-8
 ---
+
 <!-- titulo -->
-<h1 class="maintitulo">O que pensa o mercado financeira sobre a política economica.</h1>
+<h1 class="maintitulo">Avaliação Estatística da Influência de Recursos Complementares no Desempenho Acadêmico no Ensino Superior.</h1>
 
 <!-- natureza -->
 <span class="natureza">Defesa do Trabalho de <br> Conclusão de curso</span>
